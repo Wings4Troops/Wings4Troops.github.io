@@ -14,7 +14,7 @@ body {
 
 .img-container {
   min-height: 750px;
-  background-image: url(../images/gif.gif);
+  background-image: url(../images/clouds.gif);
   background-size: 1300px 800px;
   overflow: hidden;
   width:100%;
@@ -54,7 +54,7 @@ body {
 
 .ghostBorder {
   display: inline-block;
-  width: 110px;
+  width: 130px;
   padding: 8px;
   color: white;
   border: 2px solid white;
