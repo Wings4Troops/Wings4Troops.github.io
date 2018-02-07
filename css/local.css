@@ -13,7 +13,7 @@ body {
 
 
 .img-container {
-  min-height: 750px;
+  min-height: 812px;
   background-image: url(../images/clouds.gif);
   background-size: 1300px 800px;
   overflow: hidden;
@@ -37,7 +37,7 @@ body {
     position: fixed;
     top:0px;
     height:59px;
-    background-color: #212121;
+    background-color: #2196f300;
 }
 
 .parallaxMainText{
