@@ -39,4 +39,12 @@ $(function(){
   }
 });
 
+function hide(){
+    var x = document.getElementById("x");
+    if (x.style.color === "#2196f300") {
+      x.style.color = "#212121";
+    }
+}
+
+
         
